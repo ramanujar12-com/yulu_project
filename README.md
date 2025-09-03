@@ -88,7 +88,7 @@ Based on the analysis, Yulu can implement the following strategies to optimize i
 - **Language:** Python
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scipy, statsmodels
 - **Environment:** Google Colab
-- **Repository Link:** `https://github.com/ramanujar12-com/yulu_project`)
+- **Repository Link:** `https://github.com/ramanujar12-com/yulu_project`
 
 ***
 
